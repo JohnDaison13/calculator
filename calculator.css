@@ -1,0 +1,33 @@
+#screen{
+    padding-left: 20px;
+    height: 70px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+body{
+    background-color: black;
+    font-family: Arial;
+    color: white;
+}
+.number{
+    margin:7px 3px;
+    padding:5px;
+    background-color: rgb(55, 55, 55);
+    border-radius: 50%;
+    border: 0px solid ;
+    width: 70px;
+    height: 70px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.sign{
+    background-color: orange;
+}
+.clear{
+    font-size: 20px;
+}
